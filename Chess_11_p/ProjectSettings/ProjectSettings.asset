@@ -161,7 +161,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Standalone: com.DefaultCompany.Chess-11-p
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -691,8 +692,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Chess_11_p
-  metroPackageVersion: 
+  metroPackageName: Chess11p
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -700,7 +701,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: Chess_11_p
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: Chess_11_p
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
